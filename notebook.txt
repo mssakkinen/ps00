@@ -45,4 +45,5 @@ Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
 =================     committing to git: 9/7 22:30    ======================
 
 
+9/8	MS	8:48	8:53			Ex(1 - 10)	5		Corrected naming convention set00/xx.trk
 
