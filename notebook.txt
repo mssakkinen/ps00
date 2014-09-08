@@ -1,0 +1,48 @@
+Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
+
+
+9/4 	MS	10:27	10:35					8		Initial form fill 'I Am Here', saved link to 'edit'
+9/4	MS	10:43	10:57					14		Sign up for CCIS account
+9/4	MS	11:05	11:17	  3				12		Sign up for CS 5010 on piazza.com
+9/4	MS	11:30	11:33					4		EDIT - 'I Am Here' form /complete
+9/4	MS	11:48	12:15	  4				23		GitHub - signed up and registered
+9/4	MS	12:22	12:34							Issue logging into Zimbra - CCIS credentials not confirmed
+
+9/4	MS	14:30	14:54	  8				17		Troublshoot NUwave access denied - Info Commons
+
+9/4	MS	16:02	16:22					20		Racket 6.1 - Installed
+9/4	MS	16:28	16:38					10 		GitHub for Windows - Installed, not configured
+9/4	MS	16:45	17:04	  10				9		Continued Denied Access Zimbra - CCIS credentials not working
+
+9/6	MS	16:22	16:31	  		CWV		9		Video defaulted to still image in browser
+9/6	MS	16:35	16:38	  		WWV		3		Sound quality questionable
+9/6	MS	16:42	16:51			PP 0.1		9		N/A
+9/6 	MS	16:57	17:09			PP 0.2		12		N/A
+9/6	MS	17:15	17:20			PP 0.3		5		N/A
+9/6	MS	18:00	18:30			LS 0.4		30		N/A
+
+9/7 	MS	12:35	12:43	  4		Ex1		4		Complete/Unable to follow naming convention set00/1.rkt (set00.1.rkt)
+9/7	MS	12:45	12:51 	 		Ex2		6		Complete/Unable to follow naming convention set00/2.rkt (set00.2.rkt)
+9/7	MS	12:49	12:56			Ex3		7		Complete/Unable to follow naming convention set00/3.rkt (set00.3.rkt)
+9/7	MS	12:58	13:15	  4		Ex4		13		Complete/Unable to follow naming convention set00/4.rkt (set00.4.rkt)
+
+9/7	MS	13:25	13:35	  6		Ex5		14		Complete/Unable to follow naming convention set00/5.rkt (set00.5.rkt)
+
+
+9/7 	MS	14:40	16:05	  15		GitHub Lab	60		Excercise complete/successful; some directions/instructions did not line-up with user experience 
+
+9/7	MS	16:10	16:48			Ex6		38		Incomplete/Unable to follow naming convention set00/6.rkt (set00.6.rkt)
+9/7	MS	16:50	17:00			Ex6		10		Incomplete
+
+9/7	MS	17:10	17:26	  2		Ex7		12		Complete/Unable to follow naming convention set00/7.rkt (set00.7.rkt)
+9/7	MS	17:34	17:46			Ex8		12		Complete/Unable to follow naming convention set00/8.rkt (set00.8.rkt)
+
+9/7	MS	17:55	18:15			Ex9		20		Complete/Unable to follow naming convention set00/9.rkt (set00.9.rkt)
+9/7	MS	19:34	22:03			Ex10		29		Incomplete - /Unable to follow naming convention set00/10.rkt (set00.10.rkt)
+
+
+
+=================     committing to git: 9/7 22:30    ======================
+
+
+
