@@ -47,5 +47,61 @@ Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
 
 9/8	MS	8:48	8:53			Ex(1 - 10)	5		Corrected naming convention set00/xx.trk
 
+
 =================     committing to git: 9/8 9:00    ======================
 
+9/10 	MS	11:22	11:39	4		Ex11		13		N/A
+9/10	MS	17:45	17:56			Ex12		11		N/A
+9/10 	MS	17:58	18:01			Ex13		3		N/A
+9/10	MS	18:02	18:05			Ex14		3		N/A
+9/10	MS	18:11	18:19			Ex15		8		N/A
+
+9/11	MS	8:48	8:08	6		Ex17		14		N/A
+
+9/11	MS	9:29	9:53	2		Ex18		22		N/A
+
+
+9/14	MS	8:25	9:00	10		eX16		25		n/a
+
+9/14	MS	9:22	9:36			ex20		14		imcomplete - not in function form/ shape not assembled
+
+9/14	MS	12:03	12:35			ex20		32		incomplete
+9/14	MS	15:04	15:09			ex22		5		n/a
+9/14	MS	15:11	15:12			ex23		2		n/a
+9/14	MS	15:20	15:30			ex24		10		Not sure why 1 has to be value for empty as product multiples by empty;
+										-answer to own question EOL ie -empty- and multiples by given value
+
+
+9/14	MS	15:36	15:47			ex25		11		Incomplete - does not handle 'empty'
+
+9/14	MS	15:50	16:11			ex26		21		Incomplete
+9/14	MS	16:13	16:28			ex26		15		Need to replace 'or' to return number from list 
+										NOT predicate/boolean oR AGGREGATE
+										Q: Is cond the only way to iterate through lists
+9/14	MS	16:32	16:38			EX26		6		SAME-AS-ABOVE
+
+9/14	MS	16:42	16:57	2		Ex27		13		Incomplete - cannot get spaces ' ' added in proper spot
+										2 commented functions add spaces ' ' at end
+9/14	MS	16:58	17:02			Ex27     			COMPLETE - string-append takes n arguments
+
+9/14  	MS	20:33	20:44			Ex28		11		Incomplete - string->image NOT DEFINED
+
+9/14	MS	20:46	20:54			Ex30  		8		Incomlete - attempted solution using 'not'
+										not: expects only 1 argument, but found 2
+
+9/14	MS	21:09	21:18			Ex31		9		Incomplete - not understood how function syntax should be
+										formed same as in Excercise 26 function
+										Q: not sure of test return syntax
+										(listNumbers-listImagesOfCircles (list 5 15 25)) -> ?List of Images
+
+9/14	MS	21:41	21:50			Ex32		9		Incomplete - function needs updating to read in list of points
+
+	
+9/14	MS	21:55	21:57			Ex27a				REQUIRES 2nd solution to Excercise 27
+
+9/14	MS	22:05	22:10			Ex19		5		Q: How to display example results when reult is Image
+										;;  (rel-rec-sequence 4 17) = ?Image
+
+
+=================     committing to git: 9/14 22:30    ======================
+ 

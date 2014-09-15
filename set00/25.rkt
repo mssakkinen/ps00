@@ -1,0 +1,24 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname |25|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
+
+;; all-booleans-true : ListOfBoolean -> Boolean
+;; Given: List of Booleans
+;; Rteurns: 'True' if all Booleans in List are true; else 'False'
+;; Examples:
+;;  (all-booleans-true (list false false true true)) = false
+;;  (all-booleans-true (list false false false false)) = false
+;;  (all-booleans-true (list true true true true)) = true
+;;  (all-booleans-true (list empty)) = false
+ (define (all-booleans-true lst)
+     (cond
+       [(empty? lst) false]
+       [else (or (first lst) (all-booleans-true (rest lst)))]))
+
+(all-booleans-true (list false false true true))
+(all-booleans-true (list false false false false))
+(all-booleans-true (list true true true true))
+(all-booleans-true (list empty))
+
+
+
